@@ -12,7 +12,7 @@
 📦Go-To-Daegu
  ┣ 📜 go.mod - 프로젝트 패키지 관리자
  ┣ 📜 main.go
- ┗  📜 README.md - 프로젝트의 README 파일
+ ┗ 📜 README.md - 프로젝트의 README 파일
 ```
 
 ## Install
