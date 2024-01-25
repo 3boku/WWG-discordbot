@@ -15,7 +15,6 @@ var (
 )
 
 func init() {
-
 	flag.StringVar(&Token, "t", "토큰값", "Bot Token")
 	flag.Parse()
 }
